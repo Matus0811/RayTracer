@@ -1,0 +1,19 @@
+# Build & binaries
+build/
+output/
+*.exe
+*.obj
+*.pdb
+
+# CMake cache
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# VSCode
+.vscode/
+
+# Misc
+*.log
+*.ppm
